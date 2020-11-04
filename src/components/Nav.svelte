@@ -69,13 +69,6 @@
               aria-current={segment === 'about' ? 'page' : undefined}
               href="about">About</a>
           </li>
-          <li class="govuk-header__navigation-item">
-            <a
-              class="govuk-header__link"
-              rel="prefetch"
-              aria-current={segment === 'blog' ? 'page' : undefined}
-              href="blog">Blog</a>
-          </li>
         </ul>
       </nav>
     </div>
