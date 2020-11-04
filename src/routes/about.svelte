@@ -10,13 +10,13 @@
       </strong>
       <span class="govuk-phase-banner__text">
         This is a new service – your
-        <a class="govuk-link" href="#">feedback</a>
+        <a class="govuk-link" href=".">feedback</a>
         will help us to improve it.
       </span>
     </p>
   </div>
 
-  <a href="#" class="govuk-back-link">Back</a>
+  <a href="." class="govuk-back-link">Back</a>
 
   <main class="govuk-main-wrapper app-main-class" id="main-content" role="main">
     <h1 class="govuk-heading-xl">Customised page template</h1>
